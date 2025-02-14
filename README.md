@@ -3,7 +3,7 @@
 ## 🧑‍💻 About Me
 I'm a passionate software developer with a strong background in cloud computing and full-stack web development. I have a keen interest in solving complex problems and building scalable solutions. I am actively participating in the business, understanding it, and helping to improve it by delivering value through technology. When I'm not coding, you can find me engaged in physical activities like swimming and judo, or planning my next adventure.
 
-My journey in tech has led me to work with various cutting-edge technologies and collaborate with amazing teams across different projects. I’m always eager to learn new things and
+My journey in tech has led me to work with various cutting-edge technologies and collaborate with amazing teams across different projects. I’m always eager to learn new things and share my knowledge with the community.
 
 ## ✨ Skills
 Here are some of the skills and technologies I work with:
