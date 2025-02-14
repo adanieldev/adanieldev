@@ -7,8 +7,8 @@ My journey in tech has led me to work with various cutting-edge technologies and
 
 ## Skills
 Here are some of the skills and technologies I work with:
-- 💻 Languages: JavaScript, TypeScript, Python, PHP, Java, HTML5, CSS3
-- 🛠 Tools & Frameworks: Reat, Angular, Vue, Node.js, Express.js, Django, Flask, Laravel, Spring Boot
-- 🌐 Web Development: Next.js, Nuxt.js, WordPress, Shopify, Gatsby, Strapi, Tailind CSS
-- 📊 Data Analysis: Chart.js, Three.js, MySQL, MongoDB, PostgreSQL, GraphQL, GA, GTM, Elastic Search
-- 🔧 DevOps: Docker, Kubernetes, CI/CD, GCP, Azure, AWS
+- 💻 **Languages**: JavaScript, TypeScript, Python, PHP, Java, HTML5, CSS3
+- 🛠 **Tools & Frameworks**: Reat, Angular, Vue, Node.js, Express.js, Django, Flask, Laravel, Spring Boot
+- 🌐 **Web Development**: Next.js, Nuxt.js, WordPress, Shopify, Gatsby, Strapi, Tailind CSS
+- 📊 **Data Analysis**: Chart.js, Three.js, MySQL, MongoDB, PostgreSQL, GraphQL, GA, GTM, Elastic Search
+- 🔧 **DevOps**: Docker, Kubernetes, CI/CD, GCP, Azure, AWS
