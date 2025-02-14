@@ -1,6 +1,7 @@
 # Welcome to My Profile! 👋
 
 ## 🧑‍💻 About Me
+Actively participating in the business, understanding it, and helping to improve it by delivering value through technology.
 I'm a passionate software developer with a strong background in cloud computing and full-stack web development. I have a keen interest in solving complex problems and building scalable solutions. When I'm not coding, you can find me engaged in physical activities like swimming and judo, or planning my next adventure.
 
 My journey in tech has led me to work with various cutting-edge technologies and collaborate with amazing teams across different projects. I’m always eager to learn new things and
@@ -12,3 +13,5 @@ Here are some of the skills and technologies I work with:
 - 🌐 **Web Development**: Next.js, Nuxt.js, WordPress, Shopify, Gatsby, Strapi, Tailind CSS
 - 📊 **Data Analysis**: Chart.js, Three.js, MySQL, MongoDB, PostgreSQL, GraphQL, GA, GTM, Elastic Search
 - 🔧 **DevOps**: Docker, Kubernetes, CI/CD, GCP, Azure, AWS
+
+![Visitors](https://komarev.com/ghpvc/?username=adanieldev&label=Visitors&color=0e75b6&style=flat)
