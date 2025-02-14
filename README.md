@@ -5,7 +5,7 @@ I'm a passionate software developer with a strong background in cloud computing 
 
 My journey in tech has led me to work with various cutting-edge technologies and collaborate with amazing teams across different projects. I’m always eager to learn new things and
 
-## Skills
+## ✨ Skills
 Here are some of the skills and technologies I work with:
 - 💻 **Languages**: JavaScript, TypeScript, Python, PHP, Java, HTML5, CSS3
 - 🛠 **Tools & Frameworks**: Reat, Angular, Vue, Node.js, Express.js, Django, Flask, Laravel, Spring Boot
